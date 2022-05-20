@@ -32,7 +32,6 @@ $ yarn dev
 $ http://localhost:3000
 ```
 
-
 ## Telas
 
 Em desenvolvimento
