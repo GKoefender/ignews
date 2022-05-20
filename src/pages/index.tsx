@@ -5,12 +5,9 @@ export default function Home () {
   return (
     <>
       <Head>
+        <link rel="shortcut icon" href="/favicon.png" />
         <title>Início | ig.news</title>
       </Head>
-      <h1>
-
-        Hello World
-      </h1>
     </>
   )
 }
