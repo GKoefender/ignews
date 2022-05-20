@@ -1,0 +1,28 @@
+.githubContainer {
+  background: #1F2729;
+  border-radius: 100px;
+  border: none;
+
+  padding: 0.75rem 1rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  margin-left: 2rem;
+
+  transition: 0.2s filter;
+
+  &:hover {
+    filter: brightness(0.8);
+  }
+
+  svg.closeButton {
+    margin-left: 0.75rem;
+  }
+
+  span {
+    color: var(--white);
+    margin-left: 1rem;
+  }
+}

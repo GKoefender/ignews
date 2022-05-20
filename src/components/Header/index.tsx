@@ -1,3 +1,4 @@
+import { GithubSignInButton } from './GithubSignInButton'
 
 import styles from './styles.module.scss'
 
@@ -13,10 +14,7 @@ function Header () {
           </nav>
         </div>
 
-        <div className={styles.githubContainer}>
-          <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" />
-          <span>Sign in with GitHub</span>
-        </div>
+        <GithubSignInButton />
       </div>
     </header>
   )
