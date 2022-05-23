@@ -16,7 +16,7 @@ Aplicação desenvolvida em Next onde o usuário é capaz de assinar por um cont
 ## Inicialização do projeto
 
 ```bash
-$ git clone https://github.com/joaoeduardodias/ig.news.git ignews
+$ git clone https://github.com/GKoefender/ignews.git ignews
 $ cd ignews
 $ yarn
 ```
